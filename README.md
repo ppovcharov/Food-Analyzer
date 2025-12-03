@@ -1,4 +1,5 @@
-﻿# Food Analyzer :hamburger:
+This repository contains my implementation of the Food Analyzer coursework project for the Modern Java Technologies (MJT) module at the Faculty of Mathematics and Informatics, Sofia University. The project follows the official assignment specification published for the course and implements its required functionality, structure and behaviour.
+ # Food Analyzer :hamburger:
 
 В наши дни е особено важно да знаем какво ядем и да следим калориите, които консумираме. Нека си улесним живота като имплементираме приложение, което да ни информира за състава и енергийната стойност на хранителните продукти в менюто ни.
 
